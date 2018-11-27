@@ -1,3 +1,3 @@
 # site
 
-My first site. It's talkin about me, my skills and my professional experiences.
+My first site. It's talking about me, my skills and my professional experiences.
